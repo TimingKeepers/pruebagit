@@ -16,6 +16,10 @@ y lo modifiquéis para añadiros como contribuidores en CONTRIBUTORS. Finalmente
 realizar un *Pull-Request* para que se integren vuestros cambios en el repositorio
 de *TimingKeepers*.
 
+### Reconocimientos
+
+- **Paco Girela**
+
 ## ¡Necesito ayuda!
 
 Vale, no hay problema. Puedes escribir un correo o mejor crea un *Issue* para plantear
