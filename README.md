@@ -19,6 +19,7 @@ de *TimingKeepers*.
 ### Reconocimientos
 
 - **Paco Girela**
+- **Jorge Sanchez**
 
 ## ¡Necesito ayuda!
 
