@@ -20,6 +20,7 @@ de *TimingKeepers*.
 
 - **Paco Girela**
 - **Jorge Sanchez**
+- **Antonio Miguel Lopez**
 
 ## ¡Necesito ayuda!
 
