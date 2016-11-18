@@ -21,6 +21,7 @@ de *TimingKeepers*.
 - **Paco Girela**
 - **Jorge Sanchez**
 - **Antonio Miguel Lopez**
+- **Jose Lopez**
 
 ## ¡Necesito ayuda!
 
